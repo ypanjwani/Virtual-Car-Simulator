@@ -14,13 +14,13 @@ Deep learning-based self-driving model (trained in Google Colab)
 
 # Tech Stack
 
-🕹 # Udacity Car Simulator - Provides the driving environment
+**🕹 Udacity Car Simulator** - Provides the driving environment
 
-🌐 Flask - Acts as a bridge between the simulator and the ML model
+**🌐 Flask** - Acts as a bridge between the simulator and the ML model
 
-💻 Google Colab - Used for training deep learning models
+**💻 Google Colab** - Used for training deep learning models
 
-🐍 Python - Main programming language
+**🐍 Python** - Main programming language
 
 🔬 TensorFlow/Keras - Deep learning framework for model training
 
