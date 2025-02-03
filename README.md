@@ -48,4 +48,4 @@ Deep learning-based self-driving model (trained in Google Colab)
 
 ## Contributor
 
-**Yash Kumar Panjwani** ypanjwani/virtual-car-simulator
+**Yash Kumar Panjwani** - ypanjwani/virtual-car-simulator
