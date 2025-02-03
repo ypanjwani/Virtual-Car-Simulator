@@ -26,4 +26,4 @@ Deep learning-based self-driving model (trained in Google Colab)
 
 **📷 OpenCV** - Image preprocessing
 
-📈 NumPy & Pandas - Data handling
+**📈 NumPy & Pandas** - Data handling
