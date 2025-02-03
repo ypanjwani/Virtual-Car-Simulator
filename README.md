@@ -22,8 +22,8 @@ Deep learning-based self-driving model (trained in Google Colab)
 
 **🐍 Python** - Main programming language
 
-🔬 TensorFlow/Keras - Deep learning framework for model training
+**🔬 TensorFlow/Keras** - Deep learning framework for model training
 
-📷 OpenCV - Image preprocessing
+**📷 OpenCV** - Image preprocessing
 
 📈 NumPy & Pandas - Data handling
